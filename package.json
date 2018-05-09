@@ -1,5 +1,5 @@
 {
-  "name": "angular-carousel",
+  "name": "angular-carousel-with-peak",
   "description": "Angular Carousel - Mobile friendly touch carousel for AngularJS",
   "main": "dist/angular-carousel.js",
   "version": "1.1.0",
